@@ -29,3 +29,6 @@ Online recepten
 - https://www.libelle-lekker.be/bekijk-recept/79234/stoofvlees-met-frietjes-
 - https://dagelijksekost.een.be/gerechten/stoofvlees-friet
 - https://www.sofiedumont.be/nl/recept/stoofvlees-met-verse-frietjes-en-witloofsalade/
+## Verwacht resultaat
+
+![recipe-advanced](./opgave.png)

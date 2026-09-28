@@ -42,3 +42,7 @@ Voeg afbeeldingen toe:
 ## 7. aanvullende semantische elementen
 
 Gebruik minstens 2 andere relevante semantische elementen zoals speciale karakters, `<abbr>` voor afkortingen, `<blockquote>`, `<q>` enzovoort, om de betekenis van je inhoud te verduidelijken.
+
+## Verwacht resultaat
+
+![semantic](./opgave.png)

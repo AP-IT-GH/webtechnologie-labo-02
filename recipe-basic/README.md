@@ -23,3 +23,6 @@ Methode
 
 ## Links
 - https://www.ah.be/allerhande/video/R-V2422453/roerei-maken
+## Verwacht resultaat
+
+![recipe-basic](./opgave.png)

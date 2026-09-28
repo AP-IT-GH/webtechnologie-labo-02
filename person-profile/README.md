@@ -38,3 +38,6 @@ and only five minutes finding the solution.
 
 - https://www.biosiglos.com/wp-content/uploads/2007/10/albert-einstein-1.jpg
 - https://citatis.com/a4468/262bd8/
+## Verwacht resultaat
+
+![person-profile](./opgave.png)

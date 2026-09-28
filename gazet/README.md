@@ -41,3 +41,7 @@ Van Loock vult tot slot nog aan:
 
 Het is heel fijn om te zien dat zoveel jonge mensen een namiddag vrijmaken om te komen programmeren. De
 toekomst is verzekerd!
+
+## Verwacht resultaat
+
+![gazet](./opgave.png)
